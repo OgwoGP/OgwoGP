@@ -50,6 +50,10 @@ How to reach me **ogwogp@gmail.com**
     <div class="card" style="box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2); padding: 16px; text-align: center; background-color: #f1f1f1;"><img align="center" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" ></div>
   </div>
  
+ <div></div>
+
+
+
   <div class="column" style="flex-basis: 0%; padding: 0 10px;">
     <div class="card" style="box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2); padding: 16px; text-align: center; background-color: #f1f1f1;"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="OgwoGP" /></p></div>
   </div>
