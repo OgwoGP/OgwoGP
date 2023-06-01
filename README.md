@@ -3,13 +3,13 @@
 
 How to reach me **ogwogp@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect On</h3>
 <p align="left">
 <a href="https://twitter.com/OgwoGP" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ogwogp/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/ogwogp/" height="30" width="40" /></a>
 </p>
 
-## Still Learning:</summary>
+## Still Learning</summary>
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VB .NET" alt="VBNET" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
