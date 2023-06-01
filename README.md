@@ -32,7 +32,7 @@ How to reach me **ogwogp@gmail.com**
 <p></p>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Stats</h2>
+ <h2 align="center">Stats Cards</h2>
  </p>
 
 ## Most Used Languages</summary>
