@@ -32,7 +32,7 @@ How to reach me **ogwogp@gmail.com**
  <h2 align="center">Stats Cards</h2>
  </p>
 
-<!--  ## Most Used Languages</summary>
+## Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" >
 
 ##  Stats</summary>
@@ -41,17 +41,3 @@ How to reach me **ogwogp@gmail.com**
 ## Streak Stats</summary>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&hide_border=true&exclude_days=Sun&theme=dark&excludeDaysLabel=CEC4C4)](https://git.io/streak-stats)
 
- -->
-<div class="card" style="box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2); padding: 16px; text-align: center; background-color: #f1f1f1;"><img align="center" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" ></div>
-
-
-<div></div>
-
-
-<div class="card" style="box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2); padding: 16px; text-align: center; background-color: #f1f1f1;"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="OgwoGP" /></p></div>
-
-
-<div></div>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&exclude_days=Sun&excludeDaysLabel=CEC4C4&theme=dark)](https://git.io/streak-stats)
