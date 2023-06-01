@@ -56,12 +56,12 @@ How to reach me **ogwogp@gmail.com**
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-      <td style="width: 50%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top;">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" alt="OgwoGP Stats" style="max-width: 100%;">
     </td>
    
     <td style="width: 50%; vertical-align: top;">
-       <img src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&locale=en" alt="OgwoGP Stats" style="max-width: 100%;">
+       <img src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&locale=en" alt="OgwoGP_Stats" style="max-width: 100%;">
     </td>
   </tr>
 </table>
