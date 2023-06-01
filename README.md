@@ -47,9 +47,9 @@ How to reach me **ogwogp@gmail.com**
  
  <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" alt="OgwoGP Stats") style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" alt="OgwoGP Stats" style="max-width: 200%;">
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&locale=en" alt="OgwoGP Stats") style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&locale=en" alt="OgwoGP Stats" style="max-width: 100%;">
   </div>
 </div>
