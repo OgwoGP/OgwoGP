@@ -42,17 +42,60 @@ How to reach me **ogwogp@gmail.com**
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&hide_border=true&exclude_days=Sun&theme=dark&excludeDaysLabel=CEC4C4)](https://git.io/streak-stats)
  -->
  
- <div class="row">
+ <style>
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  /* Float four columns side by side */
+  .column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+
+  /* Remove extra left and right margins, due to padding in columns */
+  .row { margin: 0 -5px; }
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  /* Style the counter cards */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* this adds the "card" effect */
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+  }
+
+  /* Responsive columns - one column layout (vertical) on small screens */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+</style>
+
+<div class="row">
   <div class="column">
-    <div class="card">..</div>
+    <div class="card"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" ></div>
   </div>
   <div class="column">
-    <div class="card">..</div>
+    <div class="card"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="OgwoGP" /></div>
   </div>
   <div class="column">
-    <div class="card">..</div>
+    <div class="card">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&hide_border=true&exclude_days=Sun&theme=dark&excludeDaysLabel=CEC4C4)](https://git.io/streak-stats)</div>
   </div>
-  <div class="column">
-    <div class="card">..</div>
-  </div>
-</div>
+ </div>
+
