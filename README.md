@@ -33,13 +33,13 @@ How to reach me **ogwogp@gmail.com**
  </p>
 
 ## Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=default&hide_progress=true" alt="OgwoGP Stats" style="border: none;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" alt="OgwoGP Stats" style="border: none;">
 
 
 ##  Stats</summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=default&locale=en" alt="OgwoGP Stats" style="border: none;">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&locale=en" alt="OgwoGP Stats" style="border: none;">
 
 ## Streak Stats</summary>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=ligh&exclude_days=Sun&excludeDaysLabel=CEC4C4&background=0D1117)](#)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&exclude_days=Sun&excludeDaysLabel=CEC4C4&background=0D1117)](#)
  
 
