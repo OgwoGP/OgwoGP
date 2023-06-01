@@ -33,8 +33,8 @@ How to reach me **ogwogp@gmail.com**
  </p>
 
 ## Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" alt="OgwoGP Stats" style="border: none;">
-
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" alt="OgwoGP Stats" style="border: none;"> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&layout=compact&theme=vision-friendly-dark)](https://github.com/ogwogp/github-readme-stats)
 
 ##  Stats</summary>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&locale=en" alt="OgwoGP Stats" style="border: none;">
@@ -44,7 +44,7 @@ How to reach me **ogwogp@gmail.com**
 ## Streak Stats</summary>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&exclude_days=Sun&excludeDaysLabel=CEC4C4&background=0D1117&fire=275AD0&ring=275AD0&currStreakLabel=275AD0)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&layout=compact&theme=vision-friendly-dark)](https://github.com/ogwogp/github-readme-stats)
+
 
  
 
