@@ -5,7 +5,7 @@ How to reach me **ogwogp@gmail.com**
 
 <h3 align="left">Let's Connect On</h3>
 <p align="left">
-<a href="https://www.facebook.com/OgwoGPC" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" /></a>
+<a href="https://www.facebook.com/OgwoGPC" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"  alt="Facebook" height="30" width="40" /></a>
 <a href="https://twitter.com/OgwoGP" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ogwogp/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/ogwogp/" height="30" width="40" /></a>
 </p>
