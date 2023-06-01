@@ -40,6 +40,6 @@ How to reach me **ogwogp@gmail.com**
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=default&locale=en" alt="OgwoGP Stats" style="border: none;">
 
 ## Streak Stats</summary>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=default&exclude_days=Sun&excludeDaysLabel=CEC4C4&background=0D1117)](#)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=ligh&exclude_days=Sun&excludeDaysLabel=CEC4C4&background=0D1117)](#)
  
 
