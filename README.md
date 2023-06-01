@@ -43,14 +43,17 @@ How to reach me **ogwogp@gmail.com**
  -->
  
 <div class="row">
-  <div class="column">
+ 
+ <div class="column">
     <div class="card"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" ></div>
   </div>
-  <div class="column">
+ 
+ <div class="column">
     <div class="card"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="OgwoGP" /></div>
   </div>
-  <div class="column">
-    <div class="card">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&hide_border=true&exclude_days=Sun&theme=dark&excludeDaysLabel=CEC4C4)](https://git.io/streak-stats)</div>
+ 
+ <div class="column">
+    <div class="card"><img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&hide_border=true&exclude_days=Sun&theme=dark&excludeDaysLabel=CEC4C4)](https://git.io/streak-stats)"</div>
   </div>
  </div>
 
