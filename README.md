@@ -42,19 +42,20 @@ How to reach me **ogwogp@gmail.com**
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&hide_border=true&exclude_days=Sun&theme=dark&excludeDaysLabel=CEC4C4)](https://git.io/streak-stats)
  -->
  
-<div class="row" style="margin: 0 -5px;">
-  <div class="column" style="float: left; width: 25%; padding: 0 10px;">
+<div class="row" style="display: flex;">
+  <div class="column" style="flex-basis: 25%; padding: 0 10px;">
     <div class="card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); padding: 16px; text-align: center; background-color: #f1f1f1;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" ></div>
   </div>
-  <div class="column" style="float: left; width: 25%; padding: 0 10px;">
-    <div class="card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); padding: 16px; text-align: center; background-color: #f1f1f1;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="OgwoGP" /></div>
+  <div class="column" style="flex-basis: 25%; padding: 0 10px;">
+    <div class="card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); padding: 16px; text-align: center; background-color: #f1f1f1;"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="OgwoGP" /></p></div>
   </div>
-  <div class="column" style="float: left; width: 25%; padding: 0 10px;">
+  <div class="column" style="flex-basis: 25%; padding: 0 10px;">
     <div class="card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); padding: 16px; text-align: center; background-color: #f1f1f1;">..</div>
   </div>
-  <div class="column" style="float: left; width: 25%; padding: 0 10px;">
+  <div class="column" style="flex-basis: 25%; padding: 0 10px;">
     <div class="card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); padding: 16px; text-align: center; background-color: #f1f1f1;">..</div>
   </div>
 </div>
+
 
 
