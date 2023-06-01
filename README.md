@@ -34,7 +34,7 @@ How to reach me **ogwogp@gmail.com**
 
 ## Most Used Languages</summary>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" alt="OgwoGP Stats" style="border: none;"> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&layout=compact&theme=vision-friendly-dark)](https://github.com/ogwogp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&layout=compact&theme=dark)](https://github.com/ogwogp/github-readme-stats)
 
 ##  Stats</summary>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&locale=en" alt="OgwoGP Stats" style="border: none;">
