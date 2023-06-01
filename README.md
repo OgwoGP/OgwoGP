@@ -52,9 +52,7 @@ How to reach me **ogwogp@gmail.com**
   </div>
 </div>
 
-  <div class="column" style="flex-basis: 50%; padding: 0 10px;">
-    <div class="card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); padding: 16px; text-align: center; background-color: #f1f1f1;"><p>&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&hide_border=true&exclude_days=Sun&background=0D1117&excludeDaysLabel=CEC4C4)](https://git.io/streak-stats) alt="OgwoGP" /></p></div>
-  </div>
-</div>
+ ## Streak Stats</summary>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&hide_border=true&exclude_days=Sun&theme=dark&excludeDaysLabel=CEC4C4)](https://git.io/streak-stats)
 
 
