@@ -56,7 +56,9 @@ How to reach me **ogwogp@gmail.com**
  
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&hide_border=true&exclude_days=Sun&background=0D1117&excludeDaysLabel=CEC4C4)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&exclude_days=Sun&excludeDaysLabel=CEC4C4&background=0D1117)](https://git.io/streak-stats)
 
  
 
