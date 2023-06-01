@@ -32,7 +32,7 @@ How to reach me **ogwogp@gmail.com**
  <h2 align="center">Stats Cards</h2>
  </p>
 
- ## Most Used Languages</summary>
+<!--  ## Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" alt="OgwoGP Stats" style="border: none;">
 
 
@@ -41,7 +41,7 @@ How to reach me **ogwogp@gmail.com**
 
 ## Streak Stats</summary>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&exclude_days=Sun&excludeDaysLabel=CEC4C4&background=0D1117)](https://git.io/streak-stats)
-
+ -->
 
 <!--  <div style="display: flex;">
   <div style="flex: 1;">
@@ -60,9 +60,13 @@ How to reach me **ogwogp@gmail.com**
     <td style="width: 50%; vertical-align: top;">
       <img src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&locale=en" alt="OgwoGP_Stats" style="max-width: 100%;">
     </td>
-    <td style="width: 50%; vertical-align: top;">
-      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&exclude_days=Sun&excludeDaysLabel=CEC4C4&background=0D1117)](https://git.io/streak-stats)
-    </td>
   </tr>
+  <td style="width: 50%; vertical-align: top;">
+      <pre>
+        <code>
+          [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&exclude_days=Sun&excludeDaysLabel=CEC4C4&background=0D1117)](https://git.io/streak-stats)
+        </code>
+      </pre>
+    </td>
 </table>
 
