@@ -52,7 +52,7 @@ How to reach me **ogwogp@gmail.com**
   </div>
 </div> -->
 
-<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+<table style="width: 100%; table-layout: fixed; border: none;">
   <tr>
     <td style="width: 50%; vertical-align: top;">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" alt="OgwoGP Stats" style="max-width: 100%;">
