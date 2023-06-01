@@ -30,6 +30,8 @@ How to reach me **ogwogp@gmail.com**
 ## Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" >
 
-##  Github Stats</summary>
+##  Stats</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="OgwoGP" /></p>
 
+## Streak Stats</summary>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
