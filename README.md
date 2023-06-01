@@ -61,12 +61,5 @@ How to reach me **ogwogp@gmail.com**
       <img src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&locale=en" alt="OgwoGP_Stats" style="max-width: 100%;">
     </td>
   </tr>
-  <td style="width: 50%; vertical-align: top;">
-      <pre>
-        <code>
-          [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&exclude_days=Sun&excludeDaysLabel=CEC4C4&background=0D1117)](https://git.io/streak-stats)
-        </code>
-      </pre>
-    </td>
-</table>
+ </table>
 
