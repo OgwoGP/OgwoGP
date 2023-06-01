@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone, I'm Ogwo GP</h1>
 <h3 align="center">A Junior Developer from Nigeria</h3>
 
-📫 How to reach me **ogwogp@gmail.com**
+How to reach me **ogwogp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,6 +9,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ogwogp/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/ogwogp/" height="30" width="40" /></a>
 </p>
 
+## Still Learning:</summary>
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VB .NET" alt="VBNET" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -25,7 +26,7 @@
 </div>
 <!-- <summary>:bulb:-->
 
-## 💻 Most Used Languages</summary>
+## Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" >
 
 ##  Github Stats</summary>
