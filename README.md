@@ -28,6 +28,9 @@
 ## 💻 Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&layout=compact&theme=dark" >
 
+<img src="https://github.com/prabinmagar/github-readme-stats" >
+
+
 ##  Github Stats</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="OgwoGP" /></p>
 
