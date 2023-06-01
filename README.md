@@ -44,6 +44,7 @@ How to reach me **ogwogp@gmail.com**
  -->
 <div class="card" style="box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2); padding: 16px; text-align: center; background-color: #f1f1f1;"><img align="center" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" ></div>
 
+
 <div></div>
 
 
@@ -53,4 +54,4 @@ How to reach me **ogwogp@gmail.com**
 <div></div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&exclude_days=Sun&excludeDaysLabel=CEC4C4&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&exclude_days=Sun&excludeDaysLabel=CEC4C4&theme=dark)](https://git.io/streak-stats)
