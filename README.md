@@ -54,3 +54,5 @@ How to reach me **ogwogp@gmail.com**
 <a href="https://github.com/ogwogp/ogwogp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ogwogp&repo=ogwogp" />
 </a>
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
