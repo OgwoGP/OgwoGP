@@ -44,6 +44,4 @@ How to reach me **ogwogp@gmail.com**
 ## Streak Stats</summary>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&exclude_days=Sun&excludeDaysLabel=CEC4C4&background=0D1117&fire=275AD0&ring=275AD0&currStreakLabel=275AD0)](https://git.io/streak-stats)
 
-[![OgwoGP's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OgwoGP)](#)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OgwoGP&layout=pie)](#)
