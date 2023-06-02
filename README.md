@@ -34,11 +34,8 @@ How to reach me **ogwogp@gmail.com**
 
 ## Most Used Languages</summary>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&theme=dark&hide_progress=true" alt="OgwoGP Stats" style="border: none;"> -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&layout=compact&theme=dark)](#)
 
-
-<a href="https://github.com/ogwogp/github-readme-stats">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&layout=compact&theme=dark)](#)
-</a>
 
 ##  Stats</summary>
 <a href="https://github.com/ogwogp/github-readme-stats">
@@ -54,6 +51,6 @@ How to reach me **ogwogp@gmail.com**
 <a href="https://github.com/ogwogp/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ogwogp&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/ogwogp/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ogwogp&repo=ogwogp" />
 </a>
