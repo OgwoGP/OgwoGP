@@ -37,14 +37,14 @@ How to reach me **ogwogp@gmail.com**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogwogp&layout=compact&theme=dark)](#)
 
 ##  Stats</summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&locale=en" alt="OgwoGP Stats" style="border: none;">
+<a href="https://github.com/ogwogp/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogwogp&show_icons=true&theme=dark&locale=en" alt="OgwoGP Stats" style="border: none;">
+</a>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ogwogp&repo=github-readme-stats)](https://github.com/ogwogp/github-readme-stats) -->
 
 ## Streak Stats</summary>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OgwoGP&theme=dark&exclude_days=Sun&excludeDaysLabel=CEC4C4&background=0D1117&fire=275AD0&ring=275AD0&currStreakLabel=275AD0)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OgwoGP&layout=pie)](#)
 
 
 <a href="https://github.com/ogwogp/github-readme-stats">
